@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyChain.Demo", "KeyChain.Demo\KeyChain.Demo.csproj", "{E52225CE-245F-4E74-BFCD-3B43A76DD29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyChain.MonoTouch", "KeyChain.MonoTouch\KeyChain.MonoTouch.csproj", "{037AF84C-ED6F-4515-A3B6-882DEF162EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Distribution|iPhone = Distribution|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Distribution|iPhone.ActiveCfg = Distribution|iPhone
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Distribution|iPhone.Build.0 = Distribution|iPhone
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Release|iPhone.Build.0 = Release|iPhone
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{037AF84C-ED6F-4515-A3B6-882DEF162EFE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E52225CE-245F-4E74-BFCD-3B43A76DD29C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E52225CE-245F-4E74-BFCD-3B43A76DD29C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E52225CE-245F-4E74-BFCD-3B43A76DD29C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E52225CE-245F-4E74-BFCD-3B43A76DD29C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E52225CE-245F-4E74-BFCD-3B43A76DD29C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E52225CE-245F-4E74-BFCD-3B43A76DD29C}.Release|iPhone.Build.0 = Release|iPhone
+		{E52225CE-245F-4E74-BFCD-3B43A76DD29C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E52225CE-245F-4E74-BFCD-3B43A76DD29C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = KeyChain.Demo\KeyChain.Demo.csproj
+	EndGlobalSection
+EndGlobal
