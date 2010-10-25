@@ -1,3 +1,9 @@
+//
+// Account.cs uses MonoTouch.Dialog, ExtDialogViewController.cs and MonoTouch.KeyChain.KeyChainHelper
+//
+// Author:
+//   Tilo Szepan
+//
 using System;
 using MonoTouch.UIKit;
 using MonoTouch.Foundation;

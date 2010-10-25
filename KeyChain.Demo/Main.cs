@@ -1,4 +1,9 @@
-
+//
+// uses MonoTouch.Dialog, ExtDialogViewController.cs and Account.cs
+//
+// Author:
+//   Tilo Szepan
+//
 using System;
 using System.IO;
 using System.Collections.Generic;

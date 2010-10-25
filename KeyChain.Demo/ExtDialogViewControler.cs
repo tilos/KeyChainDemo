@@ -1,8 +1,10 @@
-using System;
-using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using MonoTouch.Foundation;
+//
+// ExtDialogViewController.cs: extends:
+// DialogViewController.cs: drives MonoTouch.Dialog
+//
+// Author:
+//   Tilo Szepan
+//
 using MonoTouch.UIKit;
 using MonoTouch.Dialog;
 
